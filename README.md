@@ -229,34 +229,20 @@ Problem Statement: The district will establish a plan to enable the entire commu
 </table>
 
 
-Other Resources:
+## Other Resources:
 
-[AI Literacy Digital Promise](https://digitalpromise.org/2024/02/21/revealing-an-ai-literacy-framework-for-learners-and-educators/)
-
-[Article that sets the context](https://edpolicyinca.org/newsroom/urgent-need-update-district-policies-student-use-artificial-intelligence-education)
-
-[Updated Generative AI Links](https://raindrop.io/AIEducation/ai-bookmarks-34752762)
-
-[AI acceptable use document CA](https://drive.google.com/file/d/1k8kjbLRolKOB7pu5s4wh-4_CufUNJEAI/view) 
-
-[North Carolina Guidance Document](https://drive.google.com/file/d/1E4lLqwypTRkvf5zEcQWX8aCh4wsdBzCj/view)
-
-[Oregon Generative AI Guidance](https://www.oregon.gov/ode/educator-resources/teachingcontent/Documents/ODE_Generative_Artificial_Intelligence_(AI)_in_K-12_Classrooms_2023.pdf)
-
-[Washington State Schools Guidance](https://ospi.k12.wa.us/sites/default/files/2024-01/human-centered-ai-guidance-k-12-public-schools.pdf)
-
-[West Virginia Guidance Document](https://wvde.us/ai/)
-
-[Virginia Guidance Document](https://www.education.virginia.gov/media/governorvirginiagov/secretary-of-education/pdf/AI-Education-Guidelines.pdf)
-
-[Teach AI Guidance document](https://docs.google.com/document/d/1OmT-6Nf_B9f8yA6r54QQ-DMSB85njo5JZ6qyR17jFgA/edit#heading=h.3tqx8ctoevq3) 
-
-[US DOE Policy recommendations](https://s3.eu-central-1.amazonaws.com/up.raindrop.io/raindrop/files/580/873/391/ai_report_highlights.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZWICFKR6UXGRBUON%2F20240102%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20240102T144910Z&X-Amz-Expires=1800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGV1LWNlbnRyYWwtMSJHMEUCIAy6mWymCOHFJdlF9TsXo2HlDSnNnUWGqdxODZpZ6qlEAiEAtjpA8BP1PH0%2BvdW517fRa6HfVPaROdwJtZEybV%2FwvBYq%2BAMIRxAAGgw2NjYyNjEzNDU0MDUiDMlQ9iEf8ulXt0V6dirVA5DQF%2FKAN2BeosXfWl3pGFRlwiDTQkGmvt3Sgdd9qKMhFtlc5ST9e72cso2SZWS73NlAaRWXU6Acfge%2FfXj7CB%2FQnbbpbiBUAeNSsPaKJEqQ4Pbc4g6uXxXWTKP7ZshbvvrX%2F%2BsfwhggQbGyW3K9h3Uo0Ip%2B23fgNGMm6gofVK8roxM4aGr8ahcYThfqUM1xwGdzRqK%2FHLfJDtiJ1Duew9k0hNxtBQlfyLOwrIjHUMCXtHymkIvlVGgipi7O5ndIo9UkafO4y1DbBYvPO1ESAEP962cc%2Bl1DWzTS8olYRX%2BAN1aAQLqX2deKKVcL3iqdHWsFLKGGaWkgE%2FUkB4jTXhkJjQPyLzMfScSvHUeXxuXK3M1Fy1X9BTN7uKZ87vZIuBconqgMcpO1fkgBrv20JdIN0utP7RhsV%2FSIXHH%2F4bbrsGBZKun14rK3SkHW0P%2BuM1eEtoLjLjlbEx%2FGXrvm38xVD7nRopEw1sb9XV9%2BNATLuunUVNz3g2oMljGQfKGCvKgvUHPftOKvwWhcf2WoXeuBt%2FFDEUtB2eiRtYvjQnZM6tXpFNje89QhJREeVSrzi7Ww8AnmLb2RJkllQZY7WmqU0YOoXrY88odDIXNohcb3ZGIXSIEwlrDQrAY6pQFzpy4BLu3gFHJ%2Ben%2FcauzU5WVdGb3BtjkCCX%2Fqo0VImHgQW5cLJjfyKdUTSyyuUJ9oVbmZ2nCekUp8q8oXVTikdt0rATET4w9iTSUA2%2BDvm5pGmIPtXzmBdxngRjePgr6DIbSw1kTJEtzwoY5SiG2Yy3yZ1%2BaHkbghBHovvxxRxgeOMyoaKG2LrH8S8qaEoEmFLpFqEeRxR%2Bu5MJQjZhMCs9Ojr8c%3D&X-Amz-Signature=0e42910cc520bcb33b5ba92e990c7fd6f59cdc4dfae6189684b05c628a9da30f&X-Amz-SignedHeaders=host&x-id=GetObject)
-
-[CoSN Resource](https://www.cosn.org/tools-and-resources/resource/artificial-intelligence-ai-in-k-12/)
-
-[Henrico Spreadsheet Resources](https://docs.google.com/spreadsheets/d/17rNmtsQO691z2E39I4VPe5b8NbvJ8eiWiZ6dNTtBdHE/edit?usp=sharing)
-
-[Cumberland Spreadsheet](https://docs.google.com/spreadsheets/d/16f_B6f_-kNljvwh2AoEgXlYPKA4mGs1sLlVYzSe-wN8/edit?usp=sharing)
-
-[Guidance document](https://chat.openai.com/g/g-aLDAKFYHB-guidance-in-education-document-builder)
+- [AI Literacy Digital Promise](https://digitalpromise.org/2024/02/21/revealing-an-ai-literacy-framework-for-learners-and-educators/)
+- [Article that sets the context](https://edpolicyinca.org/newsroom/urgent-need-update-district-policies-student-use-artificial-intelligence-education)
+- [Updated Generative AI Links](https://raindrop.io/AIEducation/ai-bookmarks-34752762)
+- [AI acceptable use document CA](https://drive.google.com/file/d/1k8kjbLRolKOB7pu5s4wh-4_CufUNJEAI/view) 
+- [North Carolina Guidance Document](https://drive.google.com/file/d/1E4lLqwypTRkvf5zEcQWX8aCh4wsdBzCj/view)
+- [Oregon Generative AI Guidance](https://www.oregon.gov/ode/educator-resources/teachingcontent/Documents/ODE_Generative_Artificial_Intelligence_(AI)_in_K-12_Classrooms_2023.pdf)
+- [Washington State Schools Guidance](https://ospi.k12.wa.us/sites/default/files/2024-01/human-centered-ai-guidance-k-12-public-schools.pdf)
+- [West Virginia Guidance Document](https://wvde.us/ai/)
+- [Virginia Guidance Document](https://www.education.virginia.gov/media/governorvirginiagov/secretary-of-education/pdf/AI-Education-Guidelines.pdf)
+- [Teach AI Guidance document](https://docs.google.com/document/d/1OmT-6Nf_B9f8yA6r54QQ-DMSB85njo5JZ6qyR17jFgA/edit#heading=h.3tqx8ctoevq3) 
+- [US DOE Policy recommendations](https://s3.eu-central-1.amazonaws.com/up.raindrop.io/raindrop/files/580/873/391/ai_report_highlights.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZWICFKR6UXGRBUON%2F20240102%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20240102T144910Z&X-Amz-Expires=1800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGV1LWNlbnRyYWwtMSJHMEUCIAy6mWymCOHFJdlF9TsXo2HlDSnNnUWGqdxODZpZ6qlEAiEAtjpA8BP1PH0%2BvdW517fRa6HfVPaROdwJtZEybV%2FwvBYq%2BAMIRxAAGgw2NjYyNjEzNDU0MDUiDMlQ9iEf8ulXt0V6dirVA5DQF%2FKAN2BeosXfWl3pGFRlwiDTQkGmvt3Sgdd9qKMhFtlc5ST9e72cso2SZWS73NlAaRWXU6Acfge%2FfXj7CB%2FQnbbpbiBUAeNSsPaKJEqQ4Pbc4g6uXxXWTKP7ZshbvvrX%2F%2BsfwhggQbGyW3K9h3Uo0Ip%2B23fgNGMm6gofVK8roxM4aGr8ahcYThfqUM1xwGdzRqK%2FHLfJDtiJ1Duew9k0hNxtBQlfyLOwrIjHUMCXtHymkIvlVGgipi7O5ndIo9UkafO4y1DbBYvPO1ESAEP962cc%2Bl1DWzTS8olYRX%2BAN1aAQLqX2deKKVcL3iqdHWsFLKGGaWkgE%2FUkB4jTXhkJjQPyLzMfScSvHUeXxuXK3M1Fy1X9BTN7uKZ87vZIuBconqgMcpO1fkgBrv20JdIN0utP7RhsV%2FSIXHH%2F4bbrsGBZKun14rK3SkHW0P%2BuM1eEtoLjLjlbEx%2FGXrvm38xVD7nRopEw1sb9XV9%2BNATLuunUVNz3g2oMljGQfKGCvKgvUHPftOKvwWhcf2WoXeuBt%2FFDEUtB2eiRtYvjQnZM6tXpFNje89QhJREeVSrzi7Ww8AnmLb2RJkllQZY7WmqU0YOoXrY88odDIXNohcb3ZGIXSIEwlrDQrAY6pQFzpy4BLu3gFHJ%2Ben%2FcauzU5WVdGb3BtjkCCX%2Fqo0VImHgQW5cLJjfyKdUTSyyuUJ9oVbmZ2nCekUp8q8oXVTikdt0rATET4w9iTSUA2%2BDvm5pGmIPtXzmBdxngRjePgr6DIbSw1kTJEtzwoY5SiG2Yy3yZ1%2BaHkbghBHovvxxRxgeOMyoaKG2LrH8S8qaEoEmFLpFqEeRxR%2Bu5MJQjZhMCs9Ojr8c%3D&X-Amz-Signature=0e42910cc520bcb33b5ba92e990c7fd6f59cdc4dfae6189684b05c628a9da30f&X-Amz-SignedHeaders=host&x-id=GetObject)
+- [CoSN Resource](https://www.cosn.org/tools-and-resources/resource/artificial-intelligence-ai-in-k-12/)
+- [Henrico Spreadsheet Resources](https://docs.google.com/spreadsheets/d/17rNmtsQO691z2E39I4VPe5b8NbvJ8eiWiZ6dNTtBdHE/edit?usp=sharing)
+- [Cumberland Spreadsheet](https://docs.google.com/spreadsheets/d/16f_B6f_-kNljvwh2AoEgXlYPKA4mGs1sLlVYzSe-wN8/edit?usp=sharing)
+- [Guidance document](https://chat.openai.com/g/g-aLDAKFYHB-guidance-in-education-document-builder)
