@@ -201,33 +201,12 @@ Problem Statement: The district will establish a plan to enable the entire commu
 [Process to help you build the plan](https://docs.google.com/document/d/19XjGtDXWo5mKciZz-9yxs0y-O9kzQBmPNhdcEYtJjRo/edit?usp=sharing)
 
 
-<table>
-  <tr>
-   <td>Question To Consider
-   </td>
-   <td>Resource(s)
-   </td>
-  </tr>
-  <tr>
-   <td>How might we plan for the learners to ensure that they have foundational AI knowledge and can utilize generative AI tools?
-   </td>
-   <td><a href="https://docs.google.com/document/d/1_dHMgyS2r5Y_BBiL-5Nc_iR1LHdsFJSSVVzhCGOIfrU/edit?usp=sharing">Learner</a>
-   </td>
-  </tr>
-  <tr>
-   <td>How might we plan for the educator to ensure that they have foundational AI knowledge and can utilize generative AI tools?
-   </td>
-   <td><a href="https://docs.google.com/document/d/1Wjhxau8BhWPmqPET9IDGwlo87gZ2xjabcqMwKv8r6ko/edit?usp=sharing">Educator</a>
-   </td>
-  </tr>
-  <tr>
-   <td>How might we plan for the leader to ensure that they have foundational AI knowledge and can utilize generative AI tools?
-   </td>
-   <td><a href="https://docs.google.com/document/d/1jKRrvCNBRVym4alPOSWOS9H-c7yxSV2JnKHq2fbutNk/edit?usp=sharing">Leader Plan</a>
-   </td>
-  </tr>
-</table>
 
+| Question To Consider | Resource(s) |
+| :--- | :--- |
+| How might we plan for the learners to ensure that they have foundational AI knowledge and can utilize generative AI tools? | <a href="https://docs.google.com/document/d/1_dHMgyS2r5Y_BBiL-5Nc_iR1LHdsFJSSVVzhCGOIfrU/edit?usp=sharing">Learner</a> |
+| How might we plan for the educator to ensure that they have foundational AI knowledge and can utilize generative AI tools? | <a href="https://docs.google.com/document/d/1Wjhxau8BhWPmqPET9IDGwlo87gZ2xjabcqMwKv8r6ko/edit?usp=sharing">Educator</a> |
+| How might we plan for the leader to ensure that they have foundational AI knowledge and can utilize generative AI tools? | <a href="https://docs.google.com/document/d/1jKRrvCNBRVym4alPOSWOS9H-c7yxSV2JnKHq2fbutNk/edit?usp=sharing">Leader Plan</a> |
 
 ## Other Resources:
 
