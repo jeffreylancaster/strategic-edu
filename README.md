@@ -76,6 +76,7 @@ Resources: <a href="https://docs.google.com/document/d/17WhLy1MNbnIwDZzxEkzLK9NT
   </tr>
 </table>
 
+<br>
 
 ### Problem #2 - Academic Integrity, Ethical Use and Teacher Resources
 
@@ -131,6 +132,8 @@ Resources: Winchester escalation document <a href="https://docs.google.com/docum
 #### Resources
 - something
 - something
+
+<br>
 
 ### Problem #3 - Infrastructure, Access, Cybersecurity and Data Governance:
 
@@ -194,6 +197,8 @@ Resources: <a href="https://www.govtech.com/education/k-12/cite23-ai-tools-raise
    </td>
   </tr>
 </table>
+
+<br>
 
 ### Problem #4 - Building the Plan (Optional)
 
