@@ -79,50 +79,25 @@ Resources: <a href="https://docs.google.com/document/d/17WhLy1MNbnIwDZzxEkzLK9NT
 Problem Statement: The district will curate and disseminate resources and formal guidance that support educators in leveraging generative AI for learning, while promoting equity, inclusivity, and accessibility. The processes and escalation pathways needed to establish academic integrity and manage violations related to generative AI use, ensuring ethical practices are maintained will be created.
 
 
-<table>
-  <tr>
-   <td>Question To Consider
-   </td>
-   <td>Resource(s)
-   </td>
-  </tr>
-  <tr>
-   <td>What resources can we give to educators and leaders to help them use generative AI in productive ways for learning?
-   </td>
-   <td>Create: A rubric to help teachers label assignments
-<p>
-Resources:<a href="https://docs.google.com/spreadsheets/d/1RRmyGRJK_zdnzysEjzAlBiRiEVAGAsb-eH0KjumQ2lw/copy#gid=544166964">Pathway Rubric</a>,<a href="https://chat.openai.com/g/g-fvi6SwpEy-assignment-labeling-assistant">Pathways GPT</a> <a href="https://www.canva.com/design/DAF7ehLim_M/n03UxNDOKt3iQK9nqMw0bQ/edit?utm_content=DAF7ehLim_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Pathway Rubric Infographic</a> <a href="https://docs.google.com/spreadsheets/d/1bWxHP26us5usgbcV-OyRYnW2f3FEcH8dLZxjyNGfmLE/edit#gid=508121861">Henrico AI Literacies</a> <a href="https://docs.google.com/document/d/1gzNY0K7fUpqoVh4vzpC47XnMZeQH2dUiN1Ykav9xG6o/edit?usp=sharing">Guidelines for Teachers</a> <a href="https://drive.google.com/file/d/1yP5YuEYpYPfwZ0hHpSVzvPav8lzGEv5V/view">One district academic integrity solution</a> <a href="https://arxiv.org/abs/2312.07086">Ethical generative AI scale</a>
-<p>
-<a href="https://www.aiforeducation.io/prompt-library">AI Prompt Library</a>
-   </td>
-  </tr>
-  <tr>
-   <td>How do we communicate about academic integrity? How will students cite their sources or communicate that they used generative AI?
-   </td>
-   <td>Create: A document explaining how to cite AI generated work
-<p>
+|||
+|--- |--- |
+|Question To Consider|Resource(s)|
+|What resources can we give to educators and leaders to help them use generative AI in productive ways for learning?|Create: A rubric to help teachers label assignments
+
+Resources:Pathway Rubric,Pathways GPT Pathway Rubric Infographic Henrico AI Literacies Guidelines for Teachers One district academic integrity solution Ethical generative AI scale
+
+AI Prompt Library|
+|How do we communicate about academic integrity? How will students cite their sources or communicate that they used generative AI?|Create: A document explaining how to cite AI generated work
+
 Create: Document that helps educators and learners understand what is considered human generated vs. AI generated
-<p>
- Resources: <a href="https://docs.google.com/document/d/1v6GLWNBESz0Zez9eN30izds6QFN1DwILwTGuDyxYMqc/copy">Cumberland Citation Document</a> <a href="https://docs.google.com/document/d/1_QnZVxO-XTZVUNC6i-Q2HagQHh-wkMUCi7u-fs2w2cY/copy">Henrico draft citation guide</a> <a href="https://docs.google.com/document/d/1xYqRV0ArthuXNKHZRR4OVARVHhBwe4bk2oX2A_qL974/copy">Teacher Questions for Students</a> <a href="https://leonfurze.com/2023/04/29/the-ai-assessment-scale-from-no-ai-to-full-ai/">Example of AI assessment scale</a> <a href="https://www.ed.gov/news/press-releases/us-department-education-shares-insights-and-recommendations-artificial-intelligence">US DOE Guidance document</a> <a href="https://arxiv.org/abs/2312.07086">Ethical generative AI scale</a>  <a href="https://www.rushu.rush.edu/education-and-training/academic-affairs/center-teaching-excellence-and-innovation/your-classroom-faculty-guide-ai">Citing and Use resource</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Has your institution developed any formal language regarding accessibility that can be included in policies, guidance?
-   </td>
-   <td>Create: Updated language regarding accessibility and use of generative AI
-<p>
-Resources:<a href="https://teaching.cornell.edu/generative-artificial-intelligence/ai-accessibility">Accessibility language</a> <a href="https://udlguidelines.cast.org/">UDL Guidelines</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Does your institution have a mature escalation pathway for cases of academic integrity violations that may result from the use of AI tools?
-   </td>
-   <td>Create: A document that details the escalation process if a student is suspected of plagiarism.
-<p>
-Resources: Winchester escalation document <a href="https://docs.google.com/document/d/16G6LjBCXXKuNwRg312hfHtTsuZ6Xrzv1dfakO_xIZr0/edit?usp=sharing">Michigan Virtual Acceptable Use Example</a> <a href="https://leonfurze.com/2023/02/23/artificial-intelligence-policy-in-secondary-schools/comment-page-1/">AI Policy for secondary students</a>  <a href="https://drive.google.com/file/d/1TDPsUYmUJKKX9V8LX2aisttDQXJmbtJZ/view?pli=1">AI policy template</a>
-   </td>
-  </tr>
-</table>
+
+ Resources: Cumberland Citation Document Henrico draft citation guide Teacher Questions for Students Example of AI assessment scale US DOE Guidance document Ethical generative AI scale  Citing and Use resource|
+|Has your institution developed any formal language regarding accessibility that can be included in policies, guidance?|Create: Updated language regarding accessibility and use of generative AI
+
+Resources:Accessibility language UDL Guidelines|
+|Does your institution have a mature escalation pathway for cases of academic integrity violations that may result from the use of AI tools?|Create: A document that details the escalation process if a student is suspected of plagiarism.
+
+Resources: Winchester escalation document Michigan Virtual Acceptable Use Example AI Policy for secondary students  AI policy template|
 
 
 Resources:
