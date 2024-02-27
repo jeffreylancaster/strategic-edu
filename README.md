@@ -23,9 +23,9 @@ In this section the participants will do the following:
 
 <table>
   <tr>
-   <td>**Question To Consider**
+   <td>Question To Consider
    </td>
-   <td>**Resource(s)**
+   <td>Resource(s)
    </td>
   </tr>
   <tr>
@@ -82,9 +82,9 @@ Resources: <a href="https://docs.google.com/document/d/17WhLy1MNbnIwDZzxEkzLK9NT
 
 <table>
   <tr>
-   <td>**Question To Consider**
+   <td>Question To Consider
    </td>
-   <td>**Resource(s)**
+   <td>Resource(s)
    </td>
   </tr>
   <tr>
@@ -136,9 +136,9 @@ Resources: Winchester escalation document <a href="https://docs.google.com/docum
 
 <table>
   <tr>
-   <td>**Question To Consider**
+   <td>Question To Consider
    </td>
-   <td>**Resource(s)**
+   <td>Resource(s)
    </td>
   </tr>
   <tr>
