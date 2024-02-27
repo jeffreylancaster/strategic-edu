@@ -196,11 +196,8 @@ Resources: <a href="https://www.govtech.com/education/k-12/cite23-ai-tools-raise
 
 Problem Statement: The district will establish a plan to enable the entire community to learn about AI and develop the necessary skill to use the emerging generative AI tools.
 
-[Plan link](https://docs.google.com/document/d/11fbSxGRz-REaddmIZTooN6ofD-7lAmPuZfcx4dTjuso/edit)
-
-[Process to help you build the plan](https://docs.google.com/document/d/19XjGtDXWo5mKciZz-9yxs0y-O9kzQBmPNhdcEYtJjRo/edit?usp=sharing)
-
-
+- [ ] [Plan link](https://docs.google.com/document/d/11fbSxGRz-REaddmIZTooN6ofD-7lAmPuZfcx4dTjuso/edit)
+- [ ] [Process to help you build the plan](https://docs.google.com/document/d/19XjGtDXWo5mKciZz-9yxs0y-O9kzQBmPNhdcEYtJjRo/edit?usp=sharing)
 
 | Question To Consider | Resource(s) |
 | :--- | :--- |
