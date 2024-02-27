@@ -213,6 +213,8 @@ Resources: <a href="https://www.govtech.com/education/k-12/cite23-ai-tools-raise
 | How might we plan for the educator to ensure that they have foundational AI knowledge and can utilize generative AI tools? | <a href="https://docs.google.com/document/d/1Wjhxau8BhWPmqPET9IDGwlo87gZ2xjabcqMwKv8r6ko/edit?usp=sharing">Educator</a> |
 | How might we plan for the leader to ensure that they have foundational AI knowledge and can utilize generative AI tools? | <a href="https://docs.google.com/document/d/1jKRrvCNBRVym4alPOSWOS9H-c7yxSV2JnKHq2fbutNk/edit?usp=sharing">Leader Plan</a> |
 
+<br>
+
 ## Other Resources
 
 - [AI Literacy Digital Promise](https://digitalpromise.org/2024/02/21/revealing-an-ai-literacy-framework-for-learners-and-educators/)
