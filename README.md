@@ -17,7 +17,7 @@ In this section the participants will do the following:
 - [ ] something
 - [ ] something
 
-<br><br>
+<br>
 
 ### Problem #1 - Acceptable Use and Communication
 
