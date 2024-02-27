@@ -1,7 +1,7 @@
-# **Generative AI **
+# Generative AI
 
 
-## **Policy, Guidelines and Frameworks**
+## Policy, Guidelines and Frameworks
 
 In this section the participants will do the following:
 
@@ -15,7 +15,7 @@ District Documents:
 
 <span style="text-decoration:underline;">Problems Statements</span>
 
-**Problem #1 Acceptable Use and Communication**
+### Problem #1 Acceptable Use and Communication
 
 Problem Statement: The district will establish and communicate comprehensive policies, guidelines, or frameworks for the acceptable use of generative AI that define original work and provide clear guidance to students and staff.
 
@@ -74,7 +74,7 @@ Resources: <a href="https://docs.google.com/document/d/17WhLy1MNbnIwDZzxEkzLK9NT
 </table>
 
 
-**Problem #2 Academic Integrity, Ethical Use and Teacher Resources**
+### Problem #2 Academic Integrity, Ethical Use and Teacher Resources
 
 Problem Statement: The district will curate and disseminate resources and formal guidance that support educators in leveraging generative AI for learning, while promoting equity, inclusivity, and accessibility. The processes and escalation pathways needed to establish academic integrity and manage violations related to generative AI use, ensuring ethical practices are maintained will be created.
 
@@ -127,7 +127,7 @@ Resources: Winchester escalation document <a href="https://docs.google.com/docum
 
 Resources:
 
-**Problem #3 Infrastructure, Access, Cybersecurity and Data Governance:** 
+### Problem #3 Infrastructure, Access, Cybersecurity and Data Governance:
 
 Problem Statement: The district will develop and deploy generative AI tools and address cybersecurity considerations, ensuring a secure and supportive infrastructure for all stakeholders.  The district will design a letter to send to its top vendors that communicates the need for transparency with generative AI.  The district will create a rubric to help evaluate tools that integrate generative AI.
 
@@ -192,7 +192,7 @@ Resources: <a href="https://www.govtech.com/education/k-12/cite23-ai-tools-raise
 </table>
 
 
-**Problem #4 Building the Plan (Optional)**
+### Problem #4 Building the Plan (Optional)
 
 Problem Statement: The district will establish a plan to enable the entire community to learn about AI and develop the necessary skill to use the emerging generative AI tools.
 
