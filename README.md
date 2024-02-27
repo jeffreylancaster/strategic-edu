@@ -19,69 +19,35 @@ District Documents:
 
 Problem Statement: The district will establish and communicate comprehensive policies, guidelines, or frameworks for the acceptable use of generative AI that define original work and provide clear guidance to students and staff.
 
+|Question To Consider|Resource(s)|
+|--- |--- |
+|How will we communicate our AI guiding principles to the entire community?|Create: An AI Guiding principles document for your school district using this AI Guiding Principles GPT 
 
-<table>
-  <tr>
-   <td>Question To Consider
-   </td>
-   <td>Resource(s)
-   </td>
-  </tr>
-  <tr>
-   <td>How will we communicate our AI guiding principles to the entire community?
-   </td>
-   <td>Create: An AI Guiding principles document for your school district using this <a href="https://chat.openai.com/g/g-KRnF2Hvla-school-district-ai-guiding-principles-tool">AI Guiding Principles GPT</a> 
-<p>
-Resources: <a href="https://www.microsoft.com/en-us/ai/principles-and-approach">Microsoft</a> <a href="https://ai.google/responsibility/principles/">Google</a> <a href="https://www.anthropic.com/news/claudes-constitution">Anthropic</a> <a href="https://www.education.gov.au/schooling/resources/australian-framework-generative-artificial-intelligence-ai-schools">Australian Framework or Generative AI Use</a> <a href="https://docs.google.com/document/d/1kq-kxxtKvinxtdn4wT9IojuMLhus-kMjoxT40zNh9Ms/edit?usp=sharing">Winchester Public Schools Guiding Principles</a> <a href="https://docs.google.com/document/d/10-W65l2dbMbV3OuRXKMXoRIEQ9MiCupcY_TboNrToDg/edit?usp=sharing">Henrico Guiding Principles</a> <a href="https://docs.google.com/document/d/1IF-TG1twKBouB9p0L9dlJ0RLmyqZ_tgryjA4W7WCN3I/copy">Cumberland AI principles</a>
-   </td>
-  </tr>
-  <tr>
-   <td>How might we communicate acceptable use of generative AI to students and staff?
-   </td>
-   <td>Create: Updated acceptable use policies for students, staff, and technology.
-<p>
+Resources: Microsoft Google Anthropic Australian Framework or Generative AI Use Winchester Public Schools Guiding Principles Henrico Guiding Principles Cumberland AI principles|
+|How might we communicate acceptable use of generative AI to students and staff?|Create: Updated acceptable use policies for students, staff, and technology.
+
 Create: AI permission document for learners
-<p>
-Resources:<a href="https://docs.google.com/document/d/16VRt_9UJz5dfbAtj45rOjHLtauzJrZzEm20vIDbXTWE/edit?usp=sharing">Student acceptable use</a>, <a href="https://docs.google.com/document/d/1Y-QYBm20Ark3Qp0L1sudlf517GFQ461V4nIQQdSm24A/edit?usp=sharing">Staff acceptable use</a>, <a href="https://docs.google.com/document/d/1IjgmZQLaQVcbbYkpW-ZCijlM9F_9dD4IiVw1vZ8lOoo/copy">Winchester Staff acceptable Use</a> <a href="https://docs.google.com/document/d/16G6LjBCXXKuNwRg312hfHtTsuZ6Xrzv1dfakO_xIZr0/edit?usp=sharing">Michigan Virtual Acceptable Use Example</a> <a href="https://www.education.gov.au/schooling/resources/australian-framework-generative-artificial-intelligence-ai-schools">Australian Framework for Generative AI Use</a>, <a href="https://leonfurze.com/2023/02/23/artificial-intelligence-policy-in-secondary-schools/comment-page-1/">AI Policy for secondary students</a>  <a href="https://drive.google.com/file/d/1TDPsUYmUJKKX9V8LX2aisttDQXJmbtJZ/view?pli=1">AI policy template</a> <a href="https://chat.openai.com/g/g-aLDAKFYHB-guidance-in-education-document-builder">Guidance Document GPT</a> <a href="https://docs.google.com/document/d/1tWrtFHAPR88aGL41YIYvuhPiAF_OtqrAAUw7j_iG0Qo/copy">AI Permission Form</a> <a href="https://docs.google.com/document/d/1U1D7B1csvr5jWVGnqfCMZ-NquzRY7ulrSE-SULtCNcM/copy">Student acceptable use Winchester</a> <a href="https://drive.google.com/file/d/1GFf8D01SmOHN8heLkall_c78Pvd7xvEt/view?usp=sharing">Responsible Use of Technology</a>
-   </td>
-  </tr>
-  <tr>
-   <td>How do we define original work?
-   </td>
-   <td>Create: A statement on original work that can be shared in other documents.
-<p>
-Resources: <a href="https://www.teachai.org/toolkit-principles">TeachAI</a> <a href="https://apuedge.com/navigating-the-age-of-ai-its-impact-on-education-arts-and-the-future-of-work">Hi-ed perspective</a> <a href="https://docs.google.com/document/d/1WwvGBlo8Z14i_VY_3AhxzDYtfY5sygsIEIt9nVFv5Co/copy">Henrico draft of original work</a>
-   </td>
-  </tr>
-  <tr>
-   <td>What should we communicate in a document for all stakeholders?
-   </td>
-   <td>Create: A Getting Started Guide or Webpage to communicate basic AI information to stakeholders 
-<p>
-Create: An AI Guidance Document using this <a href="https://chat.openai.com/g/g-aLDAKFYHB-guidance-in-education-document-builder">GPT</a>
-<p>
-<a href="https://sites.google.com/henrico.k12.va.us/hcpsuniversity/technology-for-teaching/generative-ai/generative-ai-in-hcps">HCPSU Getting Started Guide</a> <a href="https://docs.google.com/document/d/1QLB8UyRgvJcAQ_JxjULn93_7Rup0dKfSLYI5rRXgQ2I/edit?usp=sharing">Getting Started Guide</a> <a href="https://blogs.lcps.org/ai/ai-and-academic-integrity/">Loudon County Getting Started</a> <a href="https://www.lausd.org/artificialintelligence">LAUSD GenAI</a>
-   </td>
-  </tr>
-  <tr>
-   <td>What legal considerations should we be tracking for generative AI?  How will we track it?
-   </td>
-   <td>Create: Document outlining laws and legal cases to track
-<p>
-Resources: <a href="https://docs.google.com/document/d/17WhLy1MNbnIwDZzxEkzLK9NTmcZA2zzDO7SKbF9xA1E/copy">Henrico tracking document FERPA and COPPA</a>,  <a href="https://drive.google.com/file/d/1zty7CYiEUUU1tfNFWYflz95_1NGCtb1w/view?usp=sharing">Legal Considerations</a> <a href="https://www.dglaw.com/unwrapping-the-ftcs-proposed-updates-to-the-coppa-rule/#:~:text=The%20Bottom%20Line,first%20obtaining%20separate%20parental%20consent.">COPPA Language</a> (legal interpretation)<a href="https://www.federalregister.gov/documents/2024/01/11/2023-28569/childrens-online-privacy-protection-rule"> Proposed language</a> (full)
-   </td>
-  </tr>
-</table>
+
+Resources:Student acceptable use, Staff acceptable use, Winchester Staff acceptable Use Michigan Virtual Acceptable Use Example Australian Framework for Generative AI Use, AI Policy for secondary students  AI policy template Guidance Document GPT AI Permission Form Student acceptable use Winchester Responsible Use of Technology|
+|How do we define original work?|Create: A statement on original work that can be shared in other documents.
+
+Resources: TeachAI Hi-ed perspective Henrico draft of original work|
+|What should we communicate in a document for all stakeholders?|Create: A Getting Started Guide or Webpage to communicate basic AI information to stakeholders 
+
+Create: An AI Guidance Document using this GPT
+
+HCPSU Getting Started Guide Getting Started Guide Loudon County Getting Started LAUSD GenAI|
+|What legal considerations should we be tracking for generative AI?  How will we track it?|Create: Document outlining laws and legal cases to track
+
+Resources: Henrico tracking document FERPA and COPPA,  Legal Considerations COPPA Language (legal interpretation) Proposed language (full)|
 
 
 ### Problem #2 Academic Integrity, Ethical Use and Teacher Resources
 
 Problem Statement: The district will curate and disseminate resources and formal guidance that support educators in leveraging generative AI for learning, while promoting equity, inclusivity, and accessibility. The processes and escalation pathways needed to establish academic integrity and manage violations related to generative AI use, ensuring ethical practices are maintained will be created.
 
-
-|||
-|--- |--- |
 |Question To Consider|Resource(s)|
+|--- |--- |
 |What resources can we give to educators and leaders to help them use generative AI in productive ways for learning?|Create: A rubric to help teachers label assignments
 
 Resources:Pathway Rubric,Pathways GPT Pathway Rubric Infographic Henrico AI Literacies Guidelines for Teachers One district academic integrity solution Ethical generative AI scale
