@@ -19,13 +19,13 @@ In this section the participants will do the following:
 
 ### Problem #1 - Acceptable Use and Communication
 
-**Problem Statement: The district will establish and communicate comprehensive policies, guidelines, or frameworks for the acceptable use of generative AI that define original work and provide clear guidance to students and staff.**
+**Problem Statement:** The district will establish and communicate comprehensive policies, guidelines, or frameworks for the acceptable use of generative AI that define original work and provide clear guidance to students and staff.
 
 <table>
   <tr>
-   <td>Question To Consider
+   <td>**Question To Consider**
    </td>
-   <td>Resource(s)
+   <td>**Resource(s)**
    </td>
   </tr>
   <tr>
@@ -77,14 +77,14 @@ Resources: <a href="https://docs.google.com/document/d/17WhLy1MNbnIwDZzxEkzLK9NT
 
 ### Problem #2 - Academic Integrity, Ethical Use and Teacher Resources
 
-**Problem Statement: The district will curate and disseminate resources and formal guidance that support educators in leveraging generative AI for learning, while promoting equity, inclusivity, and accessibility. The processes and escalation pathways needed to establish academic integrity and manage violations related to generative AI use, ensuring ethical practices are maintained will be created.**
+**Problem Statement:** The district will curate and disseminate resources and formal guidance that support educators in leveraging generative AI for learning, while promoting equity, inclusivity, and accessibility. The processes and escalation pathways needed to establish academic integrity and manage violations related to generative AI use, ensuring ethical practices are maintained will be created.
 
 
 <table>
   <tr>
-   <td>Question To Consider
+   <td>**Question To Consider**
    </td>
-   <td>Resource(s)
+   <td>**Resource(s)**
    </td>
   </tr>
   <tr>
@@ -132,13 +132,13 @@ Resources: Winchester escalation document <a href="https://docs.google.com/docum
 
 ### Problem #3 - Infrastructure, Access, Cybersecurity and Data Governance:
 
-**Problem Statement: The district will develop and deploy generative AI tools and address cybersecurity considerations, ensuring a secure and supportive infrastructure for all stakeholders.  The district will design a letter to send to its top vendors that communicates the need for transparency with generative AI.  The district will create a rubric to help evaluate tools that integrate generative AI.**
+**Problem Statement:** The district will develop and deploy generative AI tools and address cybersecurity considerations, ensuring a secure and supportive infrastructure for all stakeholders.  The district will design a letter to send to its top vendors that communicates the need for transparency with generative AI.  The district will create a rubric to help evaluate tools that integrate generative AI.
 
 <table>
   <tr>
-   <td>Question To Consider
+   <td>**Question To Consider**
    </td>
-   <td>Resource(s)
+   <td>**Resource(s)**
    </td>
   </tr>
   <tr>
@@ -195,18 +195,18 @@ Resources: <a href="https://www.govtech.com/education/k-12/cite23-ai-tools-raise
 
 ### Problem #4 - Building the Plan (Optional)
 
-**Problem Statement: The district will establish a plan to enable the entire community to learn about AI and develop the necessary skill to use the emerging generative AI tools.**
+**Problem Statement:** The district will establish a plan to enable the entire community to learn about AI and develop the necessary skill to use the emerging generative AI tools.
 
 - [ ] [Plan link](https://docs.google.com/document/d/11fbSxGRz-REaddmIZTooN6ofD-7lAmPuZfcx4dTjuso/edit)
 - [ ] [Process to help you build the plan](https://docs.google.com/document/d/19XjGtDXWo5mKciZz-9yxs0y-O9kzQBmPNhdcEYtJjRo/edit?usp=sharing)
 
-| Question To Consider | Resource(s) |
+| **Question To Consider** | **Resource(s)** |
 | :--- | :--- |
 | How might we plan for the learners to ensure that they have foundational AI knowledge and can utilize generative AI tools? | <a href="https://docs.google.com/document/d/1_dHMgyS2r5Y_BBiL-5Nc_iR1LHdsFJSSVVzhCGOIfrU/edit?usp=sharing">Learner</a> |
 | How might we plan for the educator to ensure that they have foundational AI knowledge and can utilize generative AI tools? | <a href="https://docs.google.com/document/d/1Wjhxau8BhWPmqPET9IDGwlo87gZ2xjabcqMwKv8r6ko/edit?usp=sharing">Educator</a> |
 | How might we plan for the leader to ensure that they have foundational AI knowledge and can utilize generative AI tools? | <a href="https://docs.google.com/document/d/1jKRrvCNBRVym4alPOSWOS9H-c7yxSV2JnKHq2fbutNk/edit?usp=sharing">Leader Plan</a> |
 
-## Other Resources:
+## Other Resources
 
 - [AI Literacy Digital Promise](https://digitalpromise.org/2024/02/21/revealing-an-ai-literacy-framework-for-learners-and-educators/)
 - [Article that sets the context](https://edpolicyinca.org/newsroom/urgent-need-update-district-policies-student-use-artificial-intelligence-education)
