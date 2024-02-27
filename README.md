@@ -10,10 +10,14 @@ In this section the participants will do the following:
 * Emphasize equity as a lens for development
 
 ### District Documents 
+- something
+- something
 
-### Problems Statements
+### Problem Statements
+- [ ] something
+- [ ] something
 
-### Problem #1 Acceptable Use and Communication
+### Problem #1 - Acceptable Use and Communication
 
 **Problem Statement - The district will establish and communicate comprehensive policies, guidelines, or frameworks for the acceptable use of generative AI that define original work and provide clear guidance to students and staff.**
 
